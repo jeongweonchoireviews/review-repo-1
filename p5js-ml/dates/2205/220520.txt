@@ -1,0 +1,9 @@
+Prelim optimizers investigation - tf_xor script, test epochs on same sequential kernel weights.
+  separate tf.sequential instances cannot be used for comparison
+  the kernel weights must be the same for consistent test
+  Literature demonstates SGD use as common
+  initial observation shows a threshold for loss = 0.000001 is consistent among optimisers
+  depends on the initial weights for initial descent and saddle stuckness
+  epochs relevance requires model.save
+
+  next -> Transfer Learning Feature Extractor, Save Model, KNN

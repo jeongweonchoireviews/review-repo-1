@@ -1,0 +1,10 @@
+TensorFlow Polynomial hello-world
+  const & immutable
+  varList
+  tensor creation and .dispose() / tf.tidy();
+
+  tf.train.sgd(learning_rate).minimize(() => loss(predict(xs), tf.tensor1d(ys)));
+
+  separate functions shown in polynomial_degree_n could be called according to a slider to show changing varList dependence while drawing.
+
+proceed to TensorFlow layers API and XOR

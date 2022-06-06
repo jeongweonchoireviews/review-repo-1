@@ -1,0 +1,4 @@
+Perceptron -> Biased Linear Algebra for Multilayer Sigmoid Outputs
+  followed by 
+    Gradient Descent, Nearest Neighbors
+    Tensorflow, ml5 and deeplearn.js examples

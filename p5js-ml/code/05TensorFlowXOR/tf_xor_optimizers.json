@@ -1,0 +1,110 @@
+[{"optimizer": "sgd",
+  "trainings": [
+    { "iterations": 10000, "epochs": 1, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 5, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 32, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    }
+  ]
+},{"optimizer": "adagrad",
+  "trainings": [
+    { "iterations": 10000, "epochs": 1, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 5, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 32, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    }
+  ]
+},{"optimizer": "adadelta",
+  "trainings": [
+    { "iterations": 10000, "epochs": 1, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 5, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 32, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    }
+  ]
+},{"optimizer": "adam",
+  "trainings": [
+    { "iterations": 10000, "epochs": 1, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 5, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 32, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    }
+  ]
+},{"optimizer": "adamax",
+  "trainings": [
+    { "iterations": 10000, "epochs": 1, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 5, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 32, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    }
+  ]
+},{"optimizer": "rmsprop",
+  "trainings": [
+    { "iterations": 10000, "epochs": 1, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 5, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    },
+    { "iterations": 10000, "epochs": 32, 
+      "loss": [ { "iteration": 120, "loss": "5.107e-3" }, { "iteration": 124, "loss": "8.778e-4" }, { "iteration": 138, "loss": "9.536e-5" },
+        { "iteration": 234, "loss": "9.986e-6" }, { "iteration": 996, "loss": "9.997e-7" }, { "iteration": 4519, "loss": "9.996e-8" }, { "iteration": 8734, "loss": "9.995e-9" }
+      ]
+    }
+  ]
+}
+]

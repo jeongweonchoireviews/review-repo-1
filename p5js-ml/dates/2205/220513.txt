@@ -1,0 +1,16 @@
+  Neural Network syntax:
+constructor NeuralNet(input_nodes, hidden_nodes, output_nodes);
+
+confirmation requiring more thorough analysis,
+averages indicate excitatory errors reduce more than inhibitory error reduction responses.
+  examination using higher order regressors
+
+-> to do: 
+  visualise the non linear nature of the XOR problem
+  
+  Python standard MNIST
+
+  Google Quick Draw alternative to MNIST
+
+  color classification example
+  tensor flow -> firebase pipeline

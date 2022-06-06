@@ -1,0 +1,8 @@
+Included:
+Old example shown for format.
+Example Chapter of Algorithms
+
+To Do:
+Graphs - proceed to A* example visualised
+Machine Learning - Genetic Algorithm
+Examine Professional SWCert Examples where Algs are clearly implemented, attempt working examples.

@@ -1,0 +1,4 @@
+OLS precursor to Gradient Descent
+  Sigmoid derivative for Perceptron Back Propagation Gradient Descent
+  
+next -> XOR multilayer, python MNIST, Neuro Evolutionary, Tensor Flow.
